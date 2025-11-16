@@ -1,0 +1,334 @@
+{
+  "detections": [
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "20923_1",
+      "product_id": "20923",
+      "product_name": "BANANA DA MADEIRA CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 12,
+      "quantidade_pts": 12,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "A esvaziar, bananas com defeitos visíveis, ambiente sujo",
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          370,
+          179
+        ],
+        "top_right": [
+          633,
+          171
+        ],
+        "bottom_right": [
+          629,
+          248
+        ],
+        "bottom_left": [
+          384,
+          255
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_2",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 0,
+      "quantidade_pts": 0,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "Alerta vazio, sem frutas visíveis, ambiente sujo",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          299,
+          350
+        ],
+        "top_right": [
+          464,
+          347
+        ],
+        "bottom_right": [
+          479,
+          438
+        ],
+        "bottom_left": [
+          331,
+          438
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_3",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 0,
+      "quantidade_pts": 0,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "Alerta vazio, sem frutas visíveis, ambiente sujo",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          327,
+          464
+        ],
+        "top_right": [
+          478,
+          464
+        ],
+        "bottom_right": [
+          495,
+          555
+        ],
+        "bottom_left": [
+          366,
+          553
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_4",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 0,
+      "quantidade_pts": 0,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "Alerta vazio, sem frutas visíveis, ambiente sujo",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          462,
+          349
+        ],
+        "top_right": [
+          635,
+          347
+        ],
+        "bottom_right": [
+          630,
+          437
+        ],
+        "bottom_left": [
+          477,
+          438
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_5",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 40,
+      "quantidade_pts": 40,
+      "qualidade_pts": 30,
+      "organizacao_pts": 20,
+      "contexto_pts": 10,
+      "insights": "cheio, frutas frescas e organizadas, ambiente limpo e iluminado",
+      "confidence": 0.95,
+      "roi_quad_px": {
+        "top_left": [
+          476,
+          454
+        ],
+        "top_right": [
+          630,
+          452
+        ],
+        "bottom_right": [
+          624,
+          551
+        ],
+        "bottom_left": [
+          495,
+          552
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_6",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 0,
+      "quantidade_pts": 0,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "alerta vazio, sem frutas visíveis",
+      "confidence": 0.99,
+      "roi_quad_px": {
+        "top_left": [
+          650,
+          334
+        ],
+        "top_right": [
+          812,
+          331
+        ],
+        "bottom_right": [
+          785,
+          428
+        ],
+        "bottom_left": [
+          642,
+          433
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11906_7",
+      "product_id": "11906",
+      "product_name": "CITRINOS DO ALGARVE IGP LARANJA 70/95 KG",
+      "fruit_type": "laranja",
+      "pontuacao_total": 32,
+      "quantidade_pts": 32,
+      "qualidade_pts": 14,
+      "organizacao_pts": 10,
+      "contexto_pts": 0,
+      "insights": "quase cheio, algumas laranjas com defeitos, leve desorganização",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          642,
+          431
+        ],
+        "top_right": [
+          785,
+          427
+        ],
+        "bottom_right": [
+          749,
+          546
+        ],
+        "bottom_left": [
+          632,
+          551
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_8",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 0,
+      "quantidade_pts": 0,
+      "qualidade_pts": 0,
+      "organizacao_pts": 0,
+      "contexto_pts": 0,
+      "insights": "alerta vazio, sem frutas visíveis",
+      "confidence": 0.99,
+      "roi_quad_px": {
+        "top_left": [
+          832,
+          333
+        ],
+        "top_right": [
+          972,
+          329
+        ],
+        "bottom_right": [
+          931,
+          419
+        ],
+        "bottom_left": [
+          803,
+          427
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "11906_9",
+      "product_id": "11906",
+      "product_name": "CITRINOS DO ALGARVE IGP LARANJA 70/95 KG",
+      "fruit_type": "laranja",
+      "pontuacao_total": 70,
+      "quantidade_pts": 32,
+      "qualidade_pts": 30,
+      "organizacao_pts": 20,
+      "contexto_pts": 10,
+      "insights": "quase cheio, laranjas frescas e organizadas, ambiente limpo",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          803,
+          426
+        ],
+        "top_right": [
+          931,
+          418
+        ],
+        "bottom_right": [
+          873,
+          533
+        ],
+        "bottom_left": [
+          765,
+          543
+        ]
+      }
+    },
+    {
+      "image_name": "1751001268.jpg",
+      "camera_id": "6215",
+      "roi_id": "20923_10",
+      "product_id": "20923",
+      "product_name": "BANANA DA MADEIRA CNT KG",
+      "fruit_type": "banana",
+      "pontuacao_total": 66,
+      "quantidade_pts": 32,
+      "qualidade_pts": 14,
+      "organizacao_pts": 20,
+      "contexto_pts": 0,
+      "insights": "quase cheio, algumas bananas com manchas, organizado, mas ambiente sujo",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          639,
+          181
+        ],
+        "top_right": [
+          897,
+          184
+        ],
+        "bottom_right": [
+          876,
+          257
+        ],
+        "bottom_left": [
+          635,
+          258
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <body>
+    <h3>SSE Camera 6215</h3>
+    <pre id="out"></pre>
+    <script>
+      const out = document.getElementById('out');
+      const es = new EventSource('http://localhost:8000/sse/cameras/6215');
+      es.onmessage = (e) => { out.textContent = e.data + "\n"; };
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1058 @@
+{
+  "detections": [
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_1",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, good quality, well arranged, good lighting",
+      "confidence": 0.92,
+      "roi_quad_px": {
+        "top_left": [
+          416,
+          99
+        ],
+        "top_right": [
+          615,
+          100
+        ],
+        "bottom_right": [
+          612,
+          269
+        ],
+        "bottom_left": [
+          426,
+          266
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_2",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 20,
+      "qualidade_pct": 80,
+      "organizacao_pct": 60,
+      "contexto_pct": 75,
+      "insights": "low quantity, good quality, somewhat organized, good lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          418,
+          300
+        ],
+        "top_right": [
+          611,
+          304
+        ],
+        "bottom_right": [
+          608,
+          500
+        ],
+        "bottom_left": [
+          435,
+          495
+        ]
+      },
+      "pontuacao_total": 48,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_3",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 10,
+      "qualidade_pct": 70,
+      "organizacao_pct": 50,
+      "contexto_pct": 70,
+      "insights": "very low quantity, decent quality, somewhat cluttered, good lighting",
+      "confidence": 0.78,
+      "roi_quad_px": {
+        "top_left": [
+          431,
+          523
+        ],
+        "top_right": [
+          607,
+          528
+        ],
+        "bottom_right": [
+          606,
+          668
+        ],
+        "bottom_left": [
+          447,
+          662
+        ]
+      },
+      "pontuacao_total": 38,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_4",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 50,
+      "qualidade_pct": 85,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "moderate quantity, good quality, fairly organized, good lighting",
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          622,
+          308
+        ],
+        "top_right": [
+          822,
+          314
+        ],
+        "bottom_right": [
+          797,
+          506
+        ],
+        "bottom_left": [
+          618,
+          502
+        ]
+      },
+      "pontuacao_total": 66,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_5",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 15,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "low quantity, good quality, organized display, well lit",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          617,
+          530
+        ],
+        "top_right": [
+          800,
+          533
+        ],
+        "bottom_right": [
+          778,
+          675
+        ],
+        "bottom_left": [
+          614,
+          672
+        ]
+      },
+      "pontuacao_total": 51,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_6",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 90,
+      "contexto_pct": 80,
+      "insights": "almost full, excellent quality, very organized, good lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          627,
+          103
+        ],
+        "top_right": [
+          831,
+          111
+        ],
+        "bottom_right": [
+          815,
+          274
+        ],
+        "bottom_left": [
+          623,
+          268
+        ]
+      },
+      "pontuacao_total": 89,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "30633_7",
+      "product_id": "30633",
+      "product_name": "MELOA CANTALUPE/CHARENTAIS INTEIR CNT KG",
+      "fruit_type": "cantaloupe",
+      "quantidade_pct": 70,
+      "qualidade_pct": 90,
+      "organizacao_pct": 85,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized, slight shadow",
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          852,
+          111
+        ],
+        "top_right": [
+          1044,
+          124
+        ],
+        "bottom_right": [
+          1016,
+          279
+        ],
+        "bottom_left": [
+          835,
+          273
+        ]
+      },
+      "pontuacao_total": 79,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_8",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "mini watermelon",
+      "quantidade_pct": 80,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 85,
+      "insights": "good quantity, good quality, organized, well lit",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          842,
+          308
+        ],
+        "top_right": [
+          1030,
+          314
+        ],
+        "bottom_right": [
+          985,
+          507
+        ],
+        "bottom_left": [
+          815,
+          507
+        ]
+      },
+      "pontuacao_total": 84,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_9",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 80,
+      "contexto_pct": 70,
+      "insights": "almost full, good quality, well arranged, moderate lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          820,
+          547
+        ],
+        "top_right": [
+          995,
+          546
+        ],
+        "bottom_right": [
+          958,
+          671
+        ],
+        "bottom_left": [
+          798,
+          675
+        ]
+      },
+      "pontuacao_total": 87,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "13702_1",
+      "product_id": "13702",
+      "product_name": "MAÇÃ GALA CNT CAL 70/80 KG IMP",
+      "fruit_type": "apple",
+      "quantidade_pct": 85,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, well organized, decent lighting",
+      "confidence": 0.92,
+      "roi_quad_px": {
+        "top_left": [
+          193,
+          114
+        ],
+        "top_right": [
+          384,
+          106
+        ],
+        "bottom_right": [
+          399,
+          268
+        ],
+        "bottom_left": [
+          218,
+          269
+        ]
+      },
+      "pontuacao_total": 86,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "32748_2",
+      "product_id": "32748",
+      "product_name": "MAÇÂ GALA CNT 60/70 1 KG IMP",
+      "fruit_type": "empty",
+      "quantidade_pct": 0,
+      "qualidade_pct": 0,
+      "organizacao_pct": 0,
+      "contexto_pct": 0,
+      "insights": "empty ROI / no product visible. Restock as soon as possible",
+      "confidence": 0.0,
+      "roi_quad_px": {
+        "top_left": [
+          232,
+          518
+        ],
+        "top_right": [
+          406,
+          525
+        ],
+        "bottom_right": [
+          429,
+          665
+        ],
+        "bottom_left": [
+          271,
+          655
+        ]
+      },
+      "pontuacao_total": 0,
+      "indice_var": 0
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "19133_3",
+      "product_id": "19133",
+      "product_name": "MACA PINK LADY CNT CAL.73/80 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 75,
+      "qualidade_pct": 85,
+      "organizacao_pct": 70,
+      "contexto_pct": 80,
+      "insights": "mostly full, good quality, slightly cluttered, good lighting",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          200,
+          308
+        ],
+        "top_right": [
+          387,
+          308
+        ],
+        "bottom_right": [
+          412,
+          498
+        ],
+        "bottom_left": [
+          241,
+          492
+        ]
+      },
+      "pontuacao_total": 78,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "26786_4",
+      "product_id": "26786",
+      "product_name": "MAÇA GOLDEN NACIONAL 75/85 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "full display, excellent quality, well organized, good lighting",
+      "confidence": 0.94,
+      "roi_quad_px": {
+        "top_left": [
+          385,
+          293
+        ],
+        "top_right": [
+          588,
+          294
+        ],
+        "bottom_right": [
+          592,
+          501
+        ],
+        "bottom_left": [
+          411,
+          498
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "32749_5",
+      "product_id": "32749",
+      "product_name": "MAÇA GOLDEN NACIONAL CAL. 65/70 1 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 40,
+      "qualidade_pct": 90,
+      "organizacao_pct": 70,
+      "contexto_pct": 80,
+      "insights": "low quantity, good quality, somewhat organized, clean environment",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          404,
+          536
+        ],
+        "top_right": [
+          591,
+          540
+        ],
+        "bottom_right": [
+          594,
+          667
+        ],
+        "bottom_left": [
+          425,
+          662
+        ]
+      },
+      "pontuacao_total": 62,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "26786_6",
+      "product_id": "26786",
+      "product_name": "MAÇA GOLDEN NACIONAL 75/85 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 75,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 85,
+      "insights": "almost full, excellent quality, well organized, good lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          376,
+          104
+        ],
+        "top_right": [
+          587,
+          101
+        ],
+        "bottom_right": [
+          590,
+          269
+        ],
+        "bottom_left": [
+          392,
+          269
+        ]
+      },
+      "pontuacao_total": 84,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "32262_7",
+      "product_id": "32262",
+      "product_name": "MAÇÃ COSMIC CRISP 75/85 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 85,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 80,
+      "insights": "almost full, good quality, organized display, clean environment",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          604,
+          301
+        ],
+        "top_right": [
+          807,
+          301
+        ],
+        "bottom_right": [
+          788,
+          499
+        ],
+        "bottom_left": [
+          606,
+          500
+        ]
+      },
+      "pontuacao_total": 86,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "32262_8",
+      "product_id": "32262",
+      "product_name": "MAÇÃ COSMIC CRISP 75/85 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 70,
+      "qualidade_pct": 85,
+      "organizacao_pct": 75,
+      "contexto_pct": 75,
+      "insights": "moderate quantity, good quality, somewhat organized, slight clutter",
+      "confidence": 0.82,
+      "roi_quad_px": {
+        "top_left": [
+          606,
+          522
+        ],
+        "top_right": [
+          791,
+          520
+        ],
+        "bottom_right": [
+          773,
+          667
+        ],
+        "bottom_left": [
+          608,
+          669
+        ]
+      },
+      "pontuacao_total": 76,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "32262_9",
+      "product_id": "32262",
+      "product_name": "MAÇÃ COSMIC CRISP 75/85 KG",
+      "fruit_type": "apple",
+      "quantidade_pct": 75,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 85,
+      "insights": "good filling level, few visible defects, well organized, good lighting",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          603,
+          102
+        ],
+        "top_right": [
+          812,
+          104
+        ],
+        "bottom_right": [
+          800,
+          268
+        ],
+        "bottom_left": [
+          604,
+          267
+        ]
+      },
+      "pontuacao_total": 81,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "11901_10",
+      "product_id": "11901",
+      "product_name": "PERA PACKAMS CNT CAL.65/75 KG",
+      "fruit_type": "pear",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, excellent quality, well arranged, clean environment",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          817,
+          291
+        ],
+        "top_right": [
+          1000,
+          295
+        ],
+        "bottom_right": [
+          961,
+          495
+        ],
+        "bottom_left": [
+          796,
+          496
+        ]
+      },
+      "pontuacao_total": 88,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "11901_11",
+      "product_id": "11901",
+      "product_name": "PERA PACKAMS CNT CAL.65/75 KG",
+      "fruit_type": "pear",
+      "quantidade_pct": 80,
+      "qualidade_pct": 90,
+      "organizacao_pct": 75,
+      "contexto_pct": 80,
+      "insights": "good filling level, minor defects, slightly cluttered arrangement, clean",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          799,
+          529
+        ],
+        "top_right": [
+          969,
+          527
+        ],
+        "bottom_right": [
+          936,
+          662
+        ],
+        "bottom_left": [
+          782,
+          665
+        ]
+      },
+      "pontuacao_total": 83,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6373.jpg",
+      "camera_id": "6373",
+      "roi_id": "11909_12",
+      "product_id": "11909",
+      "product_name": "PERA CONFERENCE CAL 60/75 CNT KG",
+      "fruit_type": "pear",
+      "quantidade_pct": 70,
+      "qualidade_pct": 85,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "moderate filling, few defects, somewhat organized, decent lighting",
+      "confidence": 0.82,
+      "roi_quad_px": {
+        "top_left": [
+          825,
+          94
+        ],
+        "top_right": [
+          1014,
+          104
+        ],
+        "bottom_right": [
+          990,
+          268
+        ],
+        "bottom_left": [
+          812,
+          263
+        ]
+      },
+      "pontuacao_total": 76,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "11912_1",
+      "product_id": "11912",
+      "product_name": "BATATA VERMELHA CNT KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 85,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, well arranged, decent lighting",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          363,
+          101
+        ],
+        "top_right": [
+          558,
+          96
+        ],
+        "bottom_right": [
+          565,
+          261
+        ],
+        "bottom_left": [
+          382,
+          262
+        ]
+      },
+      "pontuacao_total": 86,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "22965_2",
+      "product_id": "22965",
+      "product_name": "BATATA ASSAR CNT EMB. 2 KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 70,
+      "qualidade_pct": 85,
+      "organizacao_pct": 75,
+      "contexto_pct": 70,
+      "insights": "almost full, good quality, slightly cluttered, adequate lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          396,
+          516
+        ],
+        "top_right": [
+          570,
+          519
+        ],
+        "bottom_right": [
+          579,
+          660
+        ],
+        "bottom_left": [
+          422,
+          656
+        ]
+      },
+      "pontuacao_total": 76,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "19454_3",
+      "product_id": "19454",
+      "product_name": "BATATA ZER0%D 4KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 60,
+      "qualidade_pct": 80,
+      "organizacao_pct": 70,
+      "contexto_pct": 65,
+      "insights": "half full, good quality, somewhat organized, moderate lighting",
+      "confidence": 0.82,
+      "roi_quad_px": {
+        "top_left": [
+          372,
+          291
+        ],
+        "top_right": [
+          561,
+          290
+        ],
+        "bottom_right": [
+          572,
+          491
+        ],
+        "bottom_left": [
+          402,
+          488
+        ]
+      },
+      "pontuacao_total": 68,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "21965_4",
+      "product_id": "21965",
+      "product_name": "BATATA VERMELHA CNT EMB. 3KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 75,
+      "qualidade_pct": 85,
+      "organizacao_pct": 80,
+      "contexto_pct": 70,
+      "insights": "almost full, good quality, well arranged, adequate lighting",
+      "confidence": 0.84,
+      "roi_quad_px": {
+        "top_left": [
+          572,
+          514
+        ],
+        "top_right": [
+          760,
+          516
+        ],
+        "bottom_right": [
+          749,
+          661
+        ],
+        "bottom_left": [
+          581,
+          659
+        ]
+      },
+      "pontuacao_total": 79,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "21965_5",
+      "product_id": "21965",
+      "product_name": "BATATA VERMELHA CNT EMB. 3KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 85,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized display, slight clutter",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          564,
+          291
+        ],
+        "top_right": [
+          770,
+          293
+        ],
+        "bottom_right": [
+          759,
+          491
+        ],
+        "bottom_left": [
+          574,
+          489
+        ]
+      },
+      "pontuacao_total": 86,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "12661_6",
+      "product_id": "12661",
+      "product_name": "BATATA DOCE CNT KG",
+      "fruit_type": "sweet potato",
+      "quantidade_pct": 70,
+      "qualidade_pct": 85,
+      "organizacao_pct": 75,
+      "contexto_pct": 80,
+      "insights": "half full, good quality, organized, clean environment",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          561,
+          93
+        ],
+        "top_right": [
+          774,
+          95
+        ],
+        "bottom_right": [
+          767,
+          261
+        ],
+        "bottom_left": [
+          568,
+          260
+        ]
+      },
+      "pontuacao_total": 76,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "22411_7",
+      "product_id": "22411",
+      "product_name": "GENGIBRE CNT KG",
+      "fruit_type": "ginger",
+      "quantidade_pct": 60,
+      "qualidade_pct": 80,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "low to medium filling, good quality, somewhat organized, clean",
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          898,
+          101
+        ],
+        "top_right": [
+          991,
+          104
+        ],
+        "bottom_right": [
+          972,
+          264
+        ],
+        "bottom_left": [
+          884,
+          263
+        ]
+      },
+      "pontuacao_total": 69,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "12661_8",
+      "product_id": "12661",
+      "product_name": "BATATA DOCE CNT KG",
+      "fruit_type": "sweet potato",
+      "quantidade_pct": 65,
+      "qualidade_pct": 80,
+      "organizacao_pct": 75,
+      "contexto_pct": 70,
+      "insights": "medium filling, good quality, organized, slight clutter",
+      "confidence": 0.75,
+      "roi_quad_px": {
+        "top_left": [
+          789,
+          98
+        ],
+        "top_right": [
+          898,
+          101
+        ],
+        "bottom_right": [
+          884,
+          263
+        ],
+        "bottom_left": [
+          782,
+          263
+        ]
+      },
+      "pontuacao_total": 72,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "22176_9",
+      "product_id": "22176",
+      "product_name": "BATATA ESPECIAL COZER SC EMB. 3KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized arrangement, slight clutter in background",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          787,
+          301
+        ],
+        "top_right": [
+          985,
+          301
+        ],
+        "bottom_right": [
+          953,
+          491
+        ],
+        "bottom_left": [
+          774,
+          495
+        ]
+      },
+      "pontuacao_total": 88,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6591.jpg",
+      "camera_id": "6591",
+      "roi_id": "22176_10",
+      "product_id": "22176",
+      "product_name": "BATATA ESPECIAL COZER SC EMB. 3KG",
+      "fruit_type": "potato",
+      "quantidade_pct": 80,
+      "qualidade_pct": 90,
+      "organizacao_pct": 75,
+      "contexto_pct": 70,
+      "insights": "almost full, good quality, somewhat organized, slight clutter in background",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          778,
+          529
+        ],
+        "top_right": [
+          960,
+          524
+        ],
+        "bottom_right": [
+          931,
+          659
+        ],
+        "bottom_left": [
+          765,
+          665
+        ]
+      },
+      "pontuacao_total": 82,
+      "indice_var": 4
+    }
+  ]
+}

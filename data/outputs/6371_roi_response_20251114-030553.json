@@ -1,0 +1,333 @@
+{
+  "detections": [
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_1",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, good quality, well organized, good lighting",
+      "confidence": 0.92,
+      "roi_quad_px": {
+        "top_left": [
+          416,
+          99
+        ],
+        "top_right": [
+          615,
+          100
+        ],
+        "bottom_right": [
+          612,
+          269
+        ],
+        "bottom_left": [
+          426,
+          266
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_2",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 20,
+      "qualidade_pct": 80,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "low quantity, good quality, somewhat organized, decent lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          418,
+          300
+        ],
+        "top_right": [
+          611,
+          304
+        ],
+        "bottom_right": [
+          608,
+          500
+        ],
+        "bottom_left": [
+          435,
+          495
+        ]
+      },
+      "pontuacao_total": 49,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_3",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 10,
+<<<<<<<< HEAD:data/outputs/6371_roi_response_20251114-061800.json
+      "qualidade_pct": 75,
+      "organizacao_pct": 50,
+      "contexto_pct": 60,
+      "insights": "very low quantity, decent quality, somewhat cluttered, average lighting",
+========
+      "qualidade_pct": 70,
+      "organizacao_pct": 60,
+      "contexto_pct": 65,
+      "insights": "very low quantity, acceptable quality, somewhat organized, average lighting",
+>>>>>>>> origin/main:data/outputs/6371_roi_response_20251114-030553.json
+      "confidence": 0.78,
+      "roi_quad_px": {
+        "top_left": [
+          431,
+          523
+        ],
+        "top_right": [
+          607,
+          528
+        ],
+        "bottom_right": [
+          606,
+          668
+        ],
+        "bottom_left": [
+          447,
+          662
+        ]
+      },
+      "pontuacao_total": 39,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_4",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 50,
+      "qualidade_pct": 85,
+<<<<<<<< HEAD:data/outputs/6371_roi_response_20251114-061800.json
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "moderate quantity, good quality, organized, good lighting",
+========
+      "organizacao_pct": 75,
+      "contexto_pct": 70,
+      "insights": "moderate quantity, good quality, organized, average lighting",
+>>>>>>>> origin/main:data/outputs/6371_roi_response_20251114-030553.json
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          622,
+          308
+        ],
+        "top_right": [
+          822,
+          314
+        ],
+        "bottom_right": [
+          797,
+          506
+        ],
+        "bottom_left": [
+          618,
+          502
+        ]
+      },
+      "pontuacao_total": 66,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_5",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 15,
+      "qualidade_pct": 90,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "low quantity, good quality, somewhat organized, good lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          617,
+          530
+        ],
+        "top_right": [
+          800,
+          533
+        ],
+        "bottom_right": [
+          778,
+          675
+        ],
+        "bottom_left": [
+          614,
+          672
+        ]
+      },
+      "pontuacao_total": 50,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_6",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 80,
+      "contexto_pct": 80,
+      "insights": "almost full, excellent quality, well organized, good lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          627,
+          103
+        ],
+        "top_right": [
+          831,
+          111
+        ],
+        "bottom_right": [
+          815,
+          274
+        ],
+        "bottom_left": [
+          623,
+          268
+        ]
+      },
+      "pontuacao_total": 88,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "30633_7",
+      "product_id": "30633",
+      "product_name": "MELOA CANTALUPE/CHARENTAIS INTEIR CNT KG",
+      "fruit_type": "cantaloupe",
+      "quantidade_pct": 60,
+      "qualidade_pct": 90,
+      "organizacao_pct": 75,
+      "contexto_pct": 80,
+<<<<<<<< HEAD:data/outputs/6371_roi_response_20251114-061800.json
+      "insights": "moderate quantity, good quality, organized, good lighting",
+========
+      "insights": "half full, good quality, somewhat organized, good lighting",
+>>>>>>>> origin/main:data/outputs/6371_roi_response_20251114-030553.json
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          852,
+          111
+        ],
+        "top_right": [
+          1044,
+          124
+        ],
+        "bottom_right": [
+          1016,
+          279
+        ],
+        "bottom_left": [
+          835,
+          273
+        ]
+      },
+      "pontuacao_total": 73,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_8",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "mini watermelon",
+      "quantidade_pct": 70,
+      "qualidade_pct": 85,
+<<<<<<<< HEAD:data/outputs/6371_roi_response_20251114-061800.json
+      "organizacao_pct": 75,
+      "contexto_pct": 80,
+      "insights": "good quantity, good quality, organized, good lighting",
+========
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, well organized, slight clutter",
+>>>>>>>> origin/main:data/outputs/6371_roi_response_20251114-030553.json
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          842,
+          308
+        ],
+        "top_right": [
+          1030,
+          314
+        ],
+        "bottom_right": [
+          985,
+          507
+        ],
+        "bottom_left": [
+          815,
+          507
+        ]
+      },
+      "pontuacao_total": 76,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_9",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 85,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, well arranged, slight clutter in background",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          820,
+          547
+        ],
+        "top_right": [
+          995,
+          546
+        ],
+        "bottom_right": [
+          958,
+          671
+        ],
+        "bottom_left": [
+          798,
+          675
+        ]
+      },
+      "pontuacao_total": 86,
+      "indice_var": 4
+    }
+  ]
+}

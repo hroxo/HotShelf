@@ -1,0 +1,725 @@
+{
+  "detections": [
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "20923_1",
+      "product_id": "20923",
+      "product_name": "BANANA DA MADEIRA CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "full display, good quality, well organized, clean environment",
+      "confidence": 0.92,
+      "roi_quad_px": {
+        "top_left": [
+          370,
+          179
+        ],
+        "top_right": [
+          633,
+          171
+        ],
+        "bottom_right": [
+          629,
+          248
+        ],
+        "bottom_left": [
+          384,
+          255
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_2",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "quantidade_pct": 20,
+      "qualidade_pct": 80,
+      "organizacao_pct": 40,
+      "contexto_pct": 60,
+      "insights": "low quantity, some quality issues, somewhat cluttered, moderate lighting",
+      "confidence": 0.75,
+========
+      "quantidade_pct": 25,
+      "qualidade_pct": 85,
+      "organizacao_pct": 40,
+      "contexto_pct": 70,
+      "insights": "low quantity, good quality, somewhat disorganized, decent lighting",
+      "confidence": 0.78,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "roi_quad_px": {
+        "top_left": [
+          299,
+          350
+        ],
+        "top_right": [
+          464,
+          347
+        ],
+        "bottom_right": [
+          479,
+          438
+        ],
+        "bottom_left": [
+          331,
+          438
+        ]
+      },
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "pontuacao_total": 45,
+========
+      "pontuacao_total": 50,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "indice_var": 2
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_3",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 70,
+      "qualidade_pct": 90,
+      "organizacao_pct": 75,
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "contexto_pct": 70,
+      "insights": "good quantity, high quality, organized, decent lighting",
+========
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized, good lighting",
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          327,
+          464
+        ],
+        "top_right": [
+          478,
+          464
+        ],
+        "bottom_right": [
+          495,
+          555
+        ],
+        "bottom_left": [
+          366,
+          553
+        ]
+      },
+      "pontuacao_total": 78,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_4",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 30,
+      "qualidade_pct": 75,
+      "organizacao_pct": 50,
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "contexto_pct": 55,
+      "insights": "low quantity, moderate quality, somewhat organized, slightly cluttered",
+      "confidence": 0.7,
+========
+      "contexto_pct": 65,
+      "insights": "low quantity, decent quality, moderately organized, acceptable lighting",
+      "confidence": 0.75,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "roi_quad_px": {
+        "top_left": [
+          462,
+          349
+        ],
+        "top_right": [
+          635,
+          347
+        ],
+        "bottom_right": [
+          630,
+          437
+        ],
+        "bottom_left": [
+          477,
+          438
+        ]
+      },
+      "pontuacao_total": 49,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_5",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized arrangement, decent lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          476,
+          454
+        ],
+        "top_right": [
+          630,
+          452
+        ],
+        "bottom_right": [
+          624,
+          551
+        ],
+        "bottom_left": [
+          495,
+          552
+        ]
+      },
+      "pontuacao_total": 88,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_6",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 0,
+      "qualidade_pct": 0,
+      "organizacao_pct": 0,
+      "contexto_pct": 0,
+      "insights": "empty ROI / no product visible. Restock as soon as possible",
+      "confidence": 0.0,
+      "roi_quad_px": {
+        "top_left": [
+          650,
+          334
+        ],
+        "top_right": [
+          812,
+          331
+        ],
+        "bottom_right": [
+          785,
+          428
+        ],
+        "bottom_left": [
+          642,
+          433
+        ]
+      },
+      "pontuacao_total": 0,
+      "indice_var": 0
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11906_7",
+      "product_id": "11906",
+      "product_name": "CITRINOS DO ALGARVE IGP LARANJA 70/95 KG",
+      "fruit_type": "orange",
+      "quantidade_pct": 0,
+      "qualidade_pct": 0,
+      "organizacao_pct": 0,
+      "contexto_pct": 0,
+      "insights": "empty ROI / no product visible. Restock as soon as possible",
+      "confidence": 0.0,
+      "roi_quad_px": {
+        "top_left": [
+          642,
+          431
+        ],
+        "top_right": [
+          785,
+          427
+        ],
+        "bottom_right": [
+          749,
+          546
+        ],
+        "bottom_left": [
+          632,
+          551
+        ]
+      },
+      "pontuacao_total": 0,
+      "indice_var": 0
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_8",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 90,
+      "qualidade_pct": 90,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, good quality, well organized, good lighting",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          832,
+          333
+        ],
+        "top_right": [
+          972,
+          329
+        ],
+        "bottom_right": [
+          931,
+          419
+        ],
+        "bottom_left": [
+          803,
+          427
+        ]
+      },
+      "pontuacao_total": 89,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11908_9",
+      "product_id": "11908",
+      "product_name": "BANANA CAT I CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 0,
+      "qualidade_pct": 0,
+      "organizacao_pct": 0,
+      "contexto_pct": 0,
+      "insights": "empty ROI / no product visible. Restock as soon as possible",
+      "confidence": 0.0,
+      "roi_quad_px": {
+        "top_left": [
+          0,
+          0
+        ],
+        "top_right": [
+          0,
+          0
+        ],
+        "bottom_right": [
+          0,
+          0
+        ],
+        "bottom_left": [
+          0,
+          0
+        ]
+      },
+      "pontuacao_total": 0,
+      "indice_var": 0
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "11906_9",
+      "product_id": "11906",
+      "product_name": "CITRINOS DO ALGARVE IGP LARANJA 70/95 KG",
+      "fruit_type": "orange",
+      "quantidade_pct": 30,
+      "qualidade_pct": 85,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "insights": "low quantity, good quality, organized display, clean environment",
+      "confidence": 0.75,
+========
+      "insights": "low quantity, good quality, somewhat organized, decent lighting",
+      "confidence": 0.85,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "roi_quad_px": {
+        "top_left": [
+          803,
+          426
+        ],
+        "top_right": [
+          931,
+          418
+        ],
+        "bottom_right": [
+          873,
+          533
+        ],
+        "bottom_left": [
+          765,
+          543
+        ]
+      },
+      "pontuacao_total": 56,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6215.jpg",
+      "camera_id": "6215",
+      "roi_id": "20923_10",
+      "product_id": "20923",
+      "product_name": "BANANA DA MADEIRA CNT KG",
+      "fruit_type": "banana",
+      "quantidade_pct": 85,
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 80,
+      "insights": "almost full, high quality, well organized, good lighting",
+      "confidence": 0.88,
+========
+      "qualidade_pct": 95,
+      "organizacao_pct": 90,
+      "contexto_pct": 80,
+      "insights": "almost full, excellent quality, very organized, good lighting",
+      "confidence": 0.92,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "roi_quad_px": {
+        "top_left": [
+          639,
+          181
+        ],
+        "top_right": [
+          897,
+          184
+        ],
+        "bottom_right": [
+          876,
+          257
+        ],
+        "bottom_left": [
+          635,
+          258
+        ]
+      },
+<<<<<<<< HEAD:data/outputs/roi_response_20251114-005226.json
+      "pontuacao_total": 86,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_1",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, good quality, well arranged, good lighting",
+      "confidence": 0.92,
+      "roi_quad_px": {
+        "top_left": [
+          416,
+          99
+        ],
+        "top_right": [
+          615,
+          100
+        ],
+        "bottom_right": [
+          612,
+          269
+        ],
+        "bottom_left": [
+          426,
+          266
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_2",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 20,
+      "qualidade_pct": 80,
+      "organizacao_pct": 60,
+      "contexto_pct": 70,
+      "insights": "low quantity, good quality, somewhat organized, decent lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          418,
+          300
+        ],
+        "top_right": [
+          611,
+          304
+        ],
+        "bottom_right": [
+          608,
+          500
+        ],
+        "bottom_left": [
+          435,
+          495
+        ]
+      },
+      "pontuacao_total": 48,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_3",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 15,
+      "qualidade_pct": 75,
+      "organizacao_pct": 50,
+      "contexto_pct": 65,
+      "insights": "almost empty, decent quality, somewhat cluttered, moderate lighting",
+      "confidence": 0.8,
+      "roi_quad_px": {
+        "top_left": [
+          431,
+          523
+        ],
+        "top_right": [
+          607,
+          528
+        ],
+        "bottom_right": [
+          606,
+          668
+        ],
+        "bottom_left": [
+          447,
+          662
+        ]
+      },
+      "pontuacao_total": 42,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16143_4",
+      "product_id": "16143",
+      "product_name": "MELANCIA PRETA POUCAS SEMENTES INT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 40,
+      "qualidade_pct": 85,
+      "organizacao_pct": 70,
+      "contexto_pct": 75,
+      "insights": "moderate quantity, good quality, organized, good lighting",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          622,
+          308
+        ],
+        "top_right": [
+          822,
+          314
+        ],
+        "bottom_right": [
+          797,
+          506
+        ],
+        "bottom_left": [
+          618,
+          502
+        ]
+      },
+      "pontuacao_total": 60,
+      "indice_var": 3
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16336_5",
+      "product_id": "16336",
+      "product_name": "MELAO VERDE INTEIRO CNT KG",
+      "fruit_type": "melon",
+      "quantidade_pct": 15,
+      "qualidade_pct": 90,
+      "organizacao_pct": 70,
+      "contexto_pct": 80,
+      "insights": "low quantity, good quality, organized display, good lighting",
+      "confidence": 0.85,
+      "roi_quad_px": {
+        "top_left": [
+          617,
+          530
+        ],
+        "top_right": [
+          800,
+          533
+        ],
+        "bottom_right": [
+          778,
+          675
+        ],
+        "bottom_left": [
+          614,
+          672
+        ]
+      },
+      "pontuacao_total": 50,
+      "indice_var": 2
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "15600_6",
+      "product_id": "15600",
+      "product_name": "MELANCIA RISCADA P/ SEMENTES INT CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 90,
+      "qualidade_pct": 95,
+      "organizacao_pct": 85,
+      "contexto_pct": 80,
+      "insights": "almost full, excellent quality, well organized, good lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          627,
+          103
+        ],
+        "top_right": [
+          831,
+          111
+        ],
+        "bottom_right": [
+          815,
+          274
+        ],
+        "bottom_left": [
+          623,
+          268
+        ]
+      },
+      "pontuacao_total": 91,
+      "indice_var": 5
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "30633_7",
+      "product_id": "30633",
+      "product_name": "MELOA CANTALUPE/CHARENTAIS INTEIR CNT KG",
+      "fruit_type": "cantaloupe",
+      "quantidade_pct": 70,
+      "qualidade_pct": 90,
+      "organizacao_pct": 80,
+      "contexto_pct": 75,
+      "insights": "almost full, good quality, organized display, slight shadow",
+      "confidence": 0.88,
+      "roi_quad_px": {
+        "top_left": [
+          852,
+          111
+        ],
+        "top_right": [
+          1044,
+          124
+        ],
+        "bottom_right": [
+          1016,
+          279
+        ],
+        "bottom_left": [
+          835,
+          273
+        ]
+      },
+      "pontuacao_total": 78,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_8",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "mini watermelon",
+      "quantidade_pct": 80,
+      "qualidade_pct": 85,
+      "organizacao_pct": 75,
+      "contexto_pct": 80,
+      "insights": "good quantity, good quality, somewhat organized, good lighting",
+      "confidence": 0.87,
+      "roi_quad_px": {
+        "top_left": [
+          842,
+          308
+        ],
+        "top_right": [
+          1030,
+          314
+        ],
+        "bottom_right": [
+          985,
+          507
+        ],
+        "bottom_left": [
+          815,
+          507
+        ]
+      },
+      "pontuacao_total": 81,
+      "indice_var": 4
+    },
+    {
+      "image_name": "6371.jpg",
+      "camera_id": "6371",
+      "roi_id": "16137_9",
+      "product_id": "16137",
+      "product_name": "MELANCIA MINI INTEIRA CNT KG",
+      "fruit_type": "watermelon",
+      "quantidade_pct": 85,
+      "qualidade_pct": 95,
+      "organizacao_pct": 80,
+      "contexto_pct": 70,
+      "insights": "almost full, good quality, well arranged, moderate lighting",
+      "confidence": 0.9,
+      "roi_quad_px": {
+        "top_left": [
+          820,
+          547
+        ],
+        "top_right": [
+          995,
+          546
+        ],
+        "bottom_right": [
+          958,
+          671
+        ],
+        "bottom_left": [
+          798,
+          675
+        ]
+      },
+      "pontuacao_total": 87,
+========
+      "pontuacao_total": 89,
+>>>>>>>> 601f943187bbe53f9316a60096c7b62dd293fd5f:data/outputs/roi_response_20251113-223817.json
+      "indice_var": 4
+    }
+  ]
+}
