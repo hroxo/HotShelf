@@ -1,0 +1,41 @@
+services:
+  agent:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    working_dir: /app
+    volumes:
+      - ./data:/app/data
+      - ./utils:/app/utils       # se o agent usar utils
+      - ./backend:/app/backend   # opcional, mas bom pra ter código atualizado em dev
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - .env
+    working_dir: /backend
+    volumes:
+      - ./data:/backend/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    depends_on:
+      - agent
+
+  frontend:
+    build:
+      context: ./frontend     
+      dockerfile: Dockerfile     
+    env_file:
+      - .env
+    ports:
+      - "5173:5173" 
+    restart: unless-stopped
+    depends_on:
+      - backend
+
